@@ -13,6 +13,7 @@
     <summary lang="cs">slowtv.cz</summary>
     <description lang="en">Watch online slowtv.cz</description>
     <description lang="cs">Sledujte online slowtv.cz</description>
+    <description lang="sk">Pozerajte online slowtv.cz</description>
     <platform>all</platform>
     <source>https://github.com/kodi-czsk/plugin.video.slowtv.cz</source>
   </extension>
