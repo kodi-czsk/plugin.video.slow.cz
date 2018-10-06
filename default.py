@@ -25,6 +25,7 @@ sys.path.append( os.path.join ( os.path.dirname(__file__),'resources','lib') )
 import re
 import xbmcaddon
 import util,xbmcprovider,xbmcutil
+import requests
 import slowtv
 
 __scriptid__   = 'plugin.video.slowtv.cz'
